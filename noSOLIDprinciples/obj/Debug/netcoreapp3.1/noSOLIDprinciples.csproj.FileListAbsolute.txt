@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.exe
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.deps.json
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.runtimeconfig.json
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.dll
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\bin\Debug\netcoreapp3.1\noSOLIDprinciples.pdb
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.dll
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.pdb
+C:\Users\Lenovo\source\repos\noSOLIDprinciples\noSOLIDprinciples\obj\Debug\netcoreapp3.1\noSOLIDprinciples.genruntimeconfig.cache
